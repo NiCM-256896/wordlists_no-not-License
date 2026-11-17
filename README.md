@@ -10,4 +10,4 @@ This repository contains NO license. That means there are no restrictions, no at
 
 This repository provides curated wordlists of common keywords useful for:
 
-common.txt is a list of common web content (Web-Content/common.txt) containing thousands of paths, directories, and files frequently found on websites.
+common txt is a list of common web content (wordlists) containing thousands of paths, directories, and files frequently found on websites.
