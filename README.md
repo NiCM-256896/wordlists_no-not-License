@@ -1,4 +1,6 @@
-# list-of-common-keywords-wordlist-100-free-no-not-License
+# wordlists_no-not-License
+Public
+
 
 
 
