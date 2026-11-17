@@ -7,3 +7,7 @@ A free, 100% open collection of common keywords (wordlists) for security researc
 
 Important Notice
 This repository contains NO license. That means there are no restrictions, no attribution requirements, and no warranty of any kind. Use at your own risk.
+
+This repository provides curated wordlists of common keywords useful for:
+
+common.txt is a list of common web content (Web-Content/common.txt) containing thousands of paths, directories, and files frequently found on websites.
