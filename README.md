@@ -11,14 +11,23 @@ Important Notice
 This repository contains NO license. That means there are no restrictions, no attribution requirements, and no warranty of any kind. Use at your own risk.
 
 You are allowed to use and redistribute this wordlists collection, or parts thereof, with or without modification.
+
+
 Permissions:
-• Commercial use
-• Modification
-• Distribution
-• Patent use
-• Private use
+
+Commercial use
+Modification
+Distribution
+Patent use
+Private use
+
+
 Conditions:
-• No not 
+No not 
+
+
+
+
 
 
 This repository provides curated wordlists of common keywords useful for:
